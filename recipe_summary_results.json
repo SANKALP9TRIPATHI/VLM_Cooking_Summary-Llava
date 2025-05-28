@@ -1,0 +1,52 @@
+[
+    {
+        "title": "round meat things",
+        "image_path": "/content/meatball.jpg",
+        "reference": "1. Mix ground beef, breadcrumbs, egg, garlic, and seasonings, roll into balls. 2. Brown meatballs in oil on all sides. 3. Add marinara sauce, cover and simmer 15 minutes until cooked through.",
+        "generated_summary": "1. Combine ground beef, breadcrumbs, egg, minced garlic, parmesan cheese, salt, and pepper, then roll into meatballs.\n2. Brown meatballs in oil over medium-high heat, then add marinara sauce and simmer covered for 15 minutes.",
+        "bleu_score": 0.20970020184997046,
+        "rouge_1_f1": 0.6470588235294118,
+        "rouge_2_f1": 0.3636363636363636,
+        "rouge_l_f1": 0.6176470588235293
+    },
+    {
+        "title": "thick drink",
+        "image_path": "/content/smoothie.jpg",
+        "reference": "1. Add berries, banana, yogurt, honey, and milk to blender. 2. Blend on high for 60-90 seconds until smooth and creamy. 3. Adjust consistency with milk or fruit, serve immediately.",
+        "generated_summary": "1. Blend frozen berries, banana, Greek yogurt, honey, and milk until smooth and creamy.\n2. Adjust sweetness and consistency by adding more honey or milk as needed.\n3. Pour into glasses and serve immediately with straws.",
+        "bleu_score": 0.16776974914462361,
+        "rouge_1_f1": 0.626865671641791,
+        "rouge_2_f1": 0.24615384615384614,
+        "rouge_l_f1": 0.4776119402985074
+    },
+    {
+        "title": "sweet rounds",
+        "image_path": "/content/cookies.jpg",
+        "reference": "1. Cream butter and sugars, add eggs and vanilla, then mix in flour mixture. 2. Stir in chocolate chips and drop spoonfuls on baking sheets. 3. Bake at 375\u00b0F for 9-11 minutes until edges are golden.",
+        "generated_summary": "1. Cream butter, sugars, eggs, and vanilla.\n2. Mix in flour, baking soda, salt, and chocolate chips.\n3. Drop rounded tablespoons of dough onto ungreased baking sheets, spacing 2 inches apart. Bake for 9-11 minutes until edges are golden but centers are still soft.",
+        "bleu_score": 0.13922165260130115,
+        "rouge_1_f1": 0.6506024096385543,
+        "rouge_2_f1": 0.37037037037037035,
+        "rouge_l_f1": 0.5783132530120482
+    },
+    {
+        "title": "creamy rice",
+        "image_path": "/content/risotto.jpg",
+        "reference": "1. Saut\u00e9 onions in butter, add arborio rice and stir until coated. 2. Add wine, then warm broth one ladle at a time, stirring constantly. 3. Continue 18-20 minutes until creamy, finish with parmesan and butter.",
+        "generated_summary": "1. Heat chicken broth and saut\u00e9 diced onions in butter.\n2. Add arborio rice, stirring to coat, and add white wine, stirring until absorbed.\n3. Gradually add warm broth, stirring constantly until absorbed, until rice is creamy. Stir in parmesan cheese and butter.",
+        "bleu_score": 0.03415733954431594,
+        "rouge_1_f1": 0.6250000000000001,
+        "rouge_2_f1": 0.23076923076923075,
+        "rouge_l_f1": 0.525
+    },
+    {
+        "title": "cooked bird",
+        "image_path": "/content/grilled_chicken.jpg",
+        "reference": "1. Marinate chicken in olive oil, lemon juice, garlic, and herbs for 30+ minutes. 2. Grill on medium-high heat 6-7 minutes per side until 165\u00b0F internal temp. 3. Let rest 5 minutes before slicing and serving.",
+        "generated_summary": "1. Marinate chicken breasts with olive oil, lemon juice, garlic, herbs, salt, and pepper for at least 30 minutes.\n2. Preheat grill to medium-high heat or use a grill pan on the stovetop.\n3. Grill chicken 6-7 minutes per side or until internal temperature reaches 165\u00b0F. Let rest 5 minutes before slicing. Serve with grilled vegetables or salad.",
+        "bleu_score": 0.20756401345162892,
+        "rouge_1_f1": 0.7200000000000001,
+        "rouge_2_f1": 0.4081632653061224,
+        "rouge_l_f1": 0.64
+    }
+]
