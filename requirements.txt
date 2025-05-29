@@ -1,0 +1,8 @@
+torch
+requests
+pillow
+transformers
+nltk
+rouge-score
+sacrebleu
+numpy
