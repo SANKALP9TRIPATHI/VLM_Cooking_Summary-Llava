@@ -1,0 +1,87 @@
+[
+    {
+        "image_path": "/content/baked_pasta.jpg",
+        "title": "cheesy bake",
+        "full_instructions": "Preheat oven to 375\u00b0F. Cook 1 lb penne pasta according to package directions. In a large skillet, brown 1 lb ground beef with diced onions. Add marinara sauce and simmer. Mix pasta with meat sauce, transfer to baking dish. Top with mozzarella and parmesan cheese. Cover with foil and bake 25 minutes. Remove foil and bake 10 more minutes until cheese is golden.",
+        "summary": "1. Cook pasta and brown ground beef with onions and marinara sauce. 2. Mix pasta with sauce, top with cheese in baking dish. 3. Bake covered at 375\u00b0F for 25 min, then uncovered 10 min until golden."
+    },
+    {
+        "image_path": "/content/stir_fry.jpg",
+        "title": "noodly thing",
+        "full_instructions": "Heat oil in wok over high heat. Add sliced chicken breast and cook 3-4 minutes. Add mixed vegetables (bell peppers, carrots, snap peas) and stir-fry 2 minutes. Add cooked rice noodles, soy sauce, oyster sauce, and sesame oil. Toss everything together for 2-3 minutes until heated through. Garnish with green onions and sesame seeds.",
+        "summary": "1. Stir-fry chicken in hot oil, then add mixed vegetables. 2. Add cooked rice noodles and sauces (soy, oyster, sesame). 3. Toss everything together until heated, garnish with green onions."
+    },
+    {
+        "image_path": "/content/chocolate_cake.jpg",
+        "title": "dark sweet thing",
+        "full_instructions": "Preheat oven to 350\u00b0F. Mix flour, cocoa powder, baking soda, and salt. In separate bowl, cream butter and sugar, add eggs and vanilla. Alternately add dry ingredients and buttermilk to wet mixture. Pour into greased pans and bake 30-35 minutes. Cool completely. Make frosting by beating butter, powdered sugar, cocoa, and cream. Frost cooled cake layers.",
+        "summary": "1. Mix dry ingredients separately from creamed butter, sugar, eggs, and buttermilk. 2. Combine wet and dry ingredients, bake in greased pans at 350\u00b0F for 30-35 min. 3. Cool completely and frost with chocolate buttercream."
+    },
+    {
+        "image_path": "/content/soup.jpg",
+        "title": "warm bowl stuff",
+        "full_instructions": "Heat olive oil in large pot. Saut\u00e9 diced onions, carrots, and celery until soft, about 5 minutes. Add minced garlic and cook 1 minute. Pour in chicken broth and bring to boil. Add diced potatoes and simmer 15 minutes. Add cooked chicken pieces and corn. Season with salt, pepper, and herbs. Simmer 5 more minutes until potatoes are tender.",
+        "summary": "1. Saut\u00e9 onions, carrots, celery, and garlic in olive oil until soft. 2. Add chicken broth, potatoes, and simmer 15 minutes. 3. Add chicken and corn, season and simmer 5 more minutes."
+    },
+    {
+        "image_path": "/content/tacos.jpg",
+        "title": "folded stuff",
+        "full_instructions": "Season ground beef with cumin, chili powder, garlic powder, and salt. Brown meat in skillet over medium heat, breaking it up as it cooks, about 8 minutes. Warm corn tortillas in dry pan or microwave. Fill tortillas with seasoned beef. Top with diced onions, cilantro, lime juice, and salsa. Serve with lime wedges and hot sauce on the side.",
+        "summary": "1. Brown seasoned ground beef in skillet until cooked through. 2. Warm corn tortillas and fill with seasoned meat. 3. Top with onions, cilantro, lime juice, and salsa."
+    },
+    {
+        "image_path": "/content/pizza,jpg.webp",
+        "title": "round flat bread",
+        "full_instructions": "Preheat oven to 475\u00b0F. Roll out pizza dough on floured surface to desired thickness. Transfer to greased pizza pan or baking sheet. Spread pizza sauce evenly, leaving 1-inch border for crust. Sprinkle with mozzarella cheese and desired toppings like pepperoni, mushrooms, peppers. Bake 12-15 minutes until crust is golden and cheese is bubbly and slightly browned.",
+        "summary": "1. Roll out dough and spread with sauce, leaving border for crust. 2. Add mozzarella cheese and desired toppings. 3. Bake at 475\u00b0F for 12-15 minutes until golden and bubbly."
+    },
+    {
+        "image_path": "/content/salad.jpg",
+        "title": "green mix",
+        "full_instructions": "Wash and dry mixed greens thoroughly. Chop cucumber, tomatoes, and red onion into bite-sized pieces. In small bowl, whisk together olive oil, balsamic vinegar, Dijon mustard, salt, and pepper for dressing. Place greens in large bowl, add chopped vegetables. Drizzle with dressing and toss gently to coat. Top with crumbled feta cheese and serve immediately.",
+        "summary": "1. Wash greens and chop vegetables (cucumber, tomatoes, onion). 2. Whisk together olive oil, balsamic vinegar, mustard, salt, and pepper. 3. Toss greens and vegetables with dressing, top with feta cheese."
+    },
+    {
+        "image_path": "/content/pancake.jpg",
+        "title": "fluffy rounds",
+        "full_instructions": "In large bowl, whisk together flour, sugar, baking powder, and salt. In separate bowl, beat eggs, then add milk, melted butter, and vanilla. Pour wet ingredients into dry ingredients and stir just until combined - don't overmix. Heat griddle or pan over medium heat and lightly grease. Pour 1/4 cup batter for each pancake. Cook until bubbles form on surface, then flip and cook until golden brown.",
+        "summary": "1. Mix dry ingredients separately from wet ingredients (eggs, milk, butter, vanilla). 2. Combine wet and dry ingredients gently without overmixing. 3. Cook on greased griddle until bubbles form, flip, and cook until golden."
+    },
+    {
+        "image_path": "/content/curry.jpg",
+        "title": "orange sauce thing",
+        "full_instructions": "Heat oil in large pan. Add diced onions and cook until translucent. Add minced garlic, ginger, and curry powder, cook 1 minute until fragrant. Add diced tomatoes and cook until soft. Pour in coconut milk and bring to simmer. Add cubed chicken and simmer 15 minutes until cooked through. Add frozen peas in last 5 minutes. Season with salt and serve over rice.",
+        "summary": "1. Saut\u00e9 onions, then add garlic, ginger, and curry powder until fragrant. 2. Add tomatoes and coconut milk, bring to simmer. 3. Add chicken and cook 15 minutes, add peas in last 5 minutes, serve over rice."
+    },
+    {
+        "image_path": "/content/sandwich.jpg",
+        "title": "stacked bread",
+        "full_instructions": "Toast bread slices until golden brown. Spread mayonnaise on one side of each slice. Layer lettuce leaves, sliced tomatoes, cooked bacon strips, and sliced turkey on bottom slice. Add slice of cheese if desired. Season tomatoes with salt and pepper. Top with second slice of bread, mayo side down. Cut diagonally and secure with toothpicks if needed.",
+        "summary": "1. Toast bread and spread with mayonnaise. 2. Layer lettuce, tomatoes, bacon, and turkey on bottom slice. 3. Season, top with second slice, cut diagonally."
+    },
+    {
+        "image_path": "/content/meatball.jpg",
+        "title": "round meat things",
+        "full_instructions": "Combine ground beef, breadcrumbs, egg, minced garlic, parmesan cheese, salt, and pepper in bowl. Mix gently with hands until just combined. Roll mixture into 1.5-inch meatballs. Heat oil in large skillet over medium-high heat. Brown meatballs on all sides, about 8 minutes total. Add marinara sauce to pan, reduce heat to low, cover and simmer 15 minutes until cooked through."
+    },
+    {
+        "image_path": "/content/smoothie.jpg",
+        "title": "thick drink",
+        "full_instructions": "Add frozen berries, banana, Greek yogurt, honey, and milk to blender. Blend on high speed for 60-90 seconds until completely smooth and creamy. Stop and scrape down sides if needed. Taste and adjust sweetness with more honey if desired. Add more milk if too thick, or more frozen fruit if too thin. Pour into glasses and serve immediately with straws."
+    },
+    {
+        "image_path": "/content/cookies.jpg",
+        "title": "sweet rounds",
+        "full_instructions": "Preheat oven to 375\u00b0F. Cream butter and sugars in large bowl until fluffy. Beat in eggs and vanilla. In separate bowl, whisk flour, baking soda, and salt. Gradually mix dry ingredients into wet mixture. Stir in chocolate chips. Drop rounded tablespoons of dough onto ungreased baking sheets, spacing 2 inches apart. Bake 9-11 minutes until edges are golden but centers still soft."
+    },
+    {
+        "image_path": "/content/risotto.jpg",
+        "title": "creamy rice",
+        "full_instructions": "Heat chicken broth in saucepan and keep warm. In large pan, saut\u00e9 diced onions in butter until translucent. Add arborio rice and stir 2 minutes until coated. Add white wine and stir until absorbed. Add warm broth one ladle at a time, stirring constantly, waiting for each addition to be absorbed before adding more. Continue for 18-20 minutes until rice is creamy. Stir in parmesan cheese and butter."
+    },
+    {
+        "image_path": "/content/grilled_chicken.jpg",
+        "title": "cooked bird",
+        "full_instructions": "Marinate chicken breasts in olive oil, lemon juice, garlic, herbs, salt, and pepper for at least 30 minutes. Preheat grill to medium-high heat. Remove chicken from marinade and grill 6-7 minutes per side, or until internal temperature reaches 165\u00b0F. Let rest 5 minutes before slicing. Serve with grilled vegetables or salad. Can also be cooked in grill pan on stovetop if outdoor grill not available."
+    }
+]
