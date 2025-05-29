@@ -72,11 +72,12 @@ A multimodal large language model capable of visual and text reasoning.
 
 📁 **Project Structure**
 
-- /images/                      → Folder containing all recipe and food images
--README.md                     → Project overview and documentation
--VLM_Cooking_Summary_v13.ipynb → Main Jupyter Notebook with code, experiments, and results
--dataset.json                  → Collected recipe dataset (web scraped) in JSON format
--recipe_summary_results.json   → Model-generated cooking summaries (output results)
--requirements.txt              → Python dependencies list for setting up the environment
+- `/images/` → Folder containing all recipe and food images  
+- `README.md` → Project overview and documentation  
+- `VLM_Cooking_Summary_v13.ipynb` → Main Jupyter Notebook with code, experiments, and results  
+- `dataset.json` → Collected recipe dataset (web scraped) in JSON format  
+- `recipe_summary_results.json` → Model-generated cooking summaries (output results)  
+- `requirements.txt` → Python dependencies list for setting up the environment
+
 
 
